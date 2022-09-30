@@ -13,20 +13,6 @@
     "link": "https://www.asus.com/Laptops/For-Gaming/TUF-Gaming/ASUS-TUF-Dash-F15-2022/",
     "price": "Rs 1.65L",
   
-  },
-  {
-    "id": 2,
-"modelName": "Alienware X17",
-"company": "Dell",
-"operatingSystem": "Windows 11 pro",
-"processorCompany": "Intel",
-"processorModel": ["i9-12900H","i7-12700H "],
-"graphicsCard": ["RTX 3080 Ti", "RTX 3070Ti", " RTX 3060"],
-"display": ["FHD at 165Hz / 360Hz", "UHD at 120Hz"],
-"memory": "up to 64GB",
-"storage": "up to 4TB SSD (2x2TB)",
-"link": "https://www.gamesradar.com/alienware-gaming-laptop-guide/",
-"price": "Rs 2L+",
   }
 ]
 
