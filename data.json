@@ -89,6 +89,20 @@
     "storage": "1tb ssd",
     "link": "https://www.sunraysystems.in/product/lenovo-thinkpad-t460-i7-6600u-refurbished-laptop/",
     "price": "Rs 1.10L"
-  }
+  },
+  {
+    "id": 8,
+    "modelName": "hp 15s 2078tu",
+    "company": "hp",
+    "operatingSystem": "Windows 11 pro",
+    "processorCompany": "Intel",
+    "processorModel": ["i5 10th generation 12650h"],
+    "graphicsCard": ["uhd"],
+    "display": ["15.6-inch, WQHD (2560 x 1440) 16:9, anti-glare display, DCI-P3:100, Refresh Rate:165Hz, Response Time:3ms, IPS-level, Adaptive-Sync, MUX Switch + Optimus"],
+    "memory": "8gb",
+    "storage": "512gb ssd",
+    "link": "https://support.hp.com/in-en/document/c06701943/",
+    "price": "Rs 1.10L"
+  },
 
 ]
