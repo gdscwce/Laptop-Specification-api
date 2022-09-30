@@ -13,6 +13,21 @@
     "link": "https://www.asus.com/Laptops/For-Gaming/TUF-Gaming/ASUS-TUF-Dash-F15-2022/",
     "price": "Rs 1.65L",
   
+  },
+  {
+    "id": 2,
+    "name": "Asus Tuf Dash F15 2022",
+    "company": "dell",
+    "operatingSystem": "Windows 10 pro",
+    "processorCompany": "Intel",
+    "processorModel": "i5 12th generation 12650h",
+    "graphicsCard": "RTX 3070",
+    "display": "15.6-inch, WQHD (2560 x 1440) 16:9, anti-glare display, DCI-P3:100, Refresh Rate:165Hz, Response Time:3ms, IPS-level, Adaptive-Sync, MUX Switch + Optimus",
+    "memory": "16gb",
+    "storage": "2tb ssd",
+    "link": "https://www.asus.com/Laptops/For-Gaming/TUF-Gaming/ASUS-TUF-Dash-F15-2022/",
+    "price": "Rs 1.65L",
+  
   }
 ]
 
