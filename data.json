@@ -2699,4 +2699,48 @@
 "link": "https://www.apple.com/in/macbook-air-m1/specs/",
 "price": "₹99900.00",
  }
+	    {
+        "id": 3,
+        "modelName": "HP Pavilion Gaming - 15-dk0272tx",
+        "company": "HP",
+        "operatingSystem": "Windows 10 Home",
+        "processorCompany": "Intel",
+        "processorModel": [
+            "i5-9300H 9th generation CPU @ 2.40GHz"
+        ],
+        "graphicsCard": [
+            "GTX 1650"
+        ],
+        "display": [
+            "39.62 cm(15.6) diagonal FHD, 144 Hz, IPS, anti-glare, micro-edge, WLED-backlit, 250 nits, 45% NTSC (1920 x 1080)"
+        ],
+        "memory": "8gb",
+        "storage": "256gb ssd + 1tb hdd",
+        "link": "https://support.hp.com/in-en/document/c06715803",
+        "price": "Rs 70k"
+    },
+    {
+        "id": 100,
+        "modelName": "ryzen 3",
+        "company": "hp",
+        "operatingSystem": "Windows 10 home",
+        "processorCompany": "AMD Ryzen 3 3250U",
+        "processorModel": [
+            " Ryzen 3"
+        ],
+        "graphicsCard": [
+            "integrated"
+        ],
+        "display": [
+            "15.6-inch FHD (1920 x 1080)",
+            "IPS, micro-edge, anti-glare, 250 nits, 45% NTSC
+"
+        ],
+        "memory": "up to 16GB",
+        "storage": "up to 4TB SSD (2x2TB)",
+        "link": "https://www.hp.com/us-en/shop/slp/amd-ryzen/laptops",
+        "price": "48000"
+    },
+    {
+
 ]
