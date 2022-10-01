@@ -2698,5 +2698,20 @@
 "storage": "256GB SSD",
 "link": "https://www.apple.com/in/macbook-air-m1/specs/",
 "price": "₹99900.00",
+ },
+
+{ 
+"id": "55",
+"modelName": "ASUS Zenbook 14X ",
+"company": "ASUS",
+"operatingSystem": "Windows 11 Home",
+"processorCompany": "Intel",
+"processorModel": "i9 12th Gen",
+"graphicsCard": "Intel Integrated Iris Xe",
+"display": "OLED",
+"memory": "32 GB",
+"storage": "1 TB SSD",
+"link": "https://www.flipkart.com/asus-zenbook-14x-2022-space-core-i9-12th-gen-32-gb-1-tb-ssd-windows-11-home-ux5401zas-kn901ws-thin-light-laptop/p/itmc615565776482?pid=COMGDGNFNHZM5ENT&lid=LSTCOMGDGNFNHZM5ENTCVXLT5&marketplace=FLIPKART&cmpid=content_computer_8965229628_gmc",
+"price": "₹1,69,900.00",
  }
 ]
