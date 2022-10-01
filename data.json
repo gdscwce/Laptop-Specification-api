@@ -2698,5 +2698,25 @@
 "storage": "256GB SSD",
 "link": "https://www.apple.com/in/macbook-air-m1/specs/",
 "price": "₹99900.00",
- }
+ },
+ {
+  "id": "55",
+  "modelName": "Macbook Pro 16",
+  "company": "Apple",
+  "operatingSystem": "Big Sur",
+  "processorCompany": "Apple",
+  "processorModel": [
+    "Apple M1"
+  ],
+  "graphicsCard": [
+    "Apple M1"
+  ],
+  "display": [
+    "16 inch Retina display"
+  ],
+  "memory": "upto 16 GB",
+  "storage": "512GB SSD",
+  "link": "https://www.apple.com/in/macbook-pro-16/specs/",
+  "price": "Rs 1,99,900+"
+},
 ]
