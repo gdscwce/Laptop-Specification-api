@@ -2698,5 +2698,20 @@
 "storage": "256GB SSD",
 "link": "https://www.apple.com/in/macbook-air-m1/specs/",
 "price": "₹99900.00",
+ },
+
+{ 
+"id": "55",
+"modelName": "ASUS Zenbook 14X ",
+"company": "ASUS",
+"operatingSystem": "Windows 11 Home",
+"processorCompany": "Intel",
+"processorModel": "i9 12th Gen",
+"graphicsCard": "Intel Integrated Iris Xe",
+"display": "OLED",
+"memory": "32 GB",
+"storage": "1 TB SSD",
+"link": "https://www.asus.com/Laptops/For-Home/Zenbook/Zenbook-14-UX433/",
+"price": "₹1,69,900.00",
  }
 ]
