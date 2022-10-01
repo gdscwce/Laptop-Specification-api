@@ -2698,5 +2698,19 @@
 "storage": "256GB SSD",
 "link": "https://www.apple.com/in/macbook-air-m1/specs/",
 "price": "₹99900.00",
+ },
+ {
+"id": 55,
+"modelName": "HP Pavilion 14",
+"company": "HP",
+"operatingSystem": "Windows 11 Home",
+"processorCompany": "Intel",
+"processorModel": "Intel(R) Core(TM) i5-1155G7",
+"graphicsCard": "Intel® Iris® Xᵉ Graphics",
+"display": "35.6 cm (14) diagonal FHD display",
+"memory": "8gb",
+"storage": "512gb ssd",
+"link": "https://www.hp.com/in-en/shop/hp-pavilion-laptop-14-dv2053tu-6k9c6pa.html?gclid=CjwKCAjwp9qZBhBkEiwAsYFsb-YbGREzQLVn8db1ecMYgI-8n2LUvTlXa806W-rSnSfYSn0L1cYHTBoChiIQAvD_BwE&gclsrc=aw.ds",
+"price": "₹62999.00",
  }
 ]
