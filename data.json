@@ -2698,5 +2698,19 @@
 "storage": "256GB SSD",
 "link": "https://www.apple.com/in/macbook-air-m1/specs/",
 "price": "₹99900.00",
+ },
+ {
+  "id":"55" ,
+"modelName": "Lenovo legion y540",
+"company": "LENOVO",
+"operatingSystem": "WINDOWS 11",
+"processorCompany": "Intel",
+"processorModel": "i7-9th gen",
+"graphicsCard": "GTX 1650ti",
+"display": "IPS",
+"memory": "8gb RAM",
+"storage": "256ssd",
+"link": "https://www.lenovo.com/in/en/laptops/legion-laptops/legion-y-series/Lenovo-Legion-Y540-15/p/88GMY501214",
+"price": "100000",
  }
 ]
