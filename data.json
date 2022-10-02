@@ -2698,5 +2698,19 @@
 "storage": "256GB SSD",
 "link": "https://www.apple.com/in/macbook-air-m1/specs/",
 "price": "₹99900.00",
+ },
+{
+"id": 56,
+"modelName": "Vostro 3405",
+"company": "Dell",
+"operatingSystem": "Windows 11 Home",
+"processorCompany": "AMD",
+"processorModel": "Ryzen 3",
+"graphicsCard": "Integrated graphics with AMD APU AMD Radeon Graphics",
+"display": "14.0-inch FHD (1920 x 1080) Anti-glare LED Backlight Narrow Border WVA Display",
+"memory": "4 GB DDR4",
+"storage": "1 TB HDD",
+"link": "https://www.amazon.in/VOSTRO-14inch-Ryzen-3-Graphics-D552134WIN9BE/dp/B08HQY7WH4",
+"price": "₹37,360.00",
  }
 ]
