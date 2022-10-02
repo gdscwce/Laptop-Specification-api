@@ -2698,5 +2698,19 @@
 "storage": "256GB SSD",
 "link": "https://www.apple.com/in/macbook-air-m1/specs/",
 "price": "₹99900.00",
- }
+ },
+{ 
+"id": "55",
+"modelName": "HP 15s-du2060TX",
+"company": "HP",
+"operatingSystem": "Windows 10 Home",
+"processorCompany": "intel core i5",
+"processorModel": "Intel Core i3 10th Gen.",
+"graphicsCard": "NVIDIA Geforce MX130",
+"display": "15.6 inch",
+"memory": "8 GB",
+"storage": "1 TB SSD",
+"link": "https://www.smartprix.com/laptops/hp-15s-du2060tx-laptop-10th-gen-core-i3-4gb-ppd1lxjjn66d",
+"price": "₹51800",
+ }	
 ]
