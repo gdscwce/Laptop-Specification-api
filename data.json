@@ -267,8 +267,7 @@
         "processorCompany": "Intel",
         "processorModel": ["AMD Ryzen™ 7 4800H Mobile Processor (8-core/16-thread, 12MB Cache, 4.2 GHz max boost"],
         "graphicsCard": ["NVIDIA® GeForce RTX™ 2060, 6GB GDDR6"],
-        "display": ["
-15.6 - inch, FHD(1920 x 1080) 16: 9, anti - glare display, sRGB: 62.5 % , Adobe: 47.1 % , Refresh Rate: 144 Hz, Value IPS - level, Optimus "],
+        "display": ["15.6 - inch", "FHD (1920 x 1080) 16: 9", "anti - glare display", "sRGB: 62.5 %" , "Adobe: 47.1 %" , "Refresh Rate: 144 Hz", "Value IPS - level", "Optimus "],
             "memory": "16gb",
             "storage": "512tb ssd",
             "link": "https://www.amazon.in/ASUS-GeForce-RTX-3050-Graphics-Windows-FA506ICB-HN075W/dp/B0B56ZQ95M/ref=asc_df_B0B56ZQ95M/?tag=googleshopdes-21&linkCode=df0&hvadid=586293583898&hvpos=&hvnetw=g&hvrand=11173180973234990858&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-1730956806615&psc=1",
@@ -526,7 +525,7 @@
             "memory": "16 GB",
             "storage": "1 TB HDD 256 GB SSD",
             "link": "https://www.flipkart.com/dell-g3-core-i7-10th-gen-16-gb-1-tb-hdd-256-gb-ssd-windows-10-home-4-graphics-nvidia-geforce-gtx-1650-120-hz-3500-gaming-laptop/p/itm2f97d9ce34e03",
-            "price": "86,990 INR",
+            "price": "86,990 INR"
         },
         {
             "id": 32,
@@ -571,7 +570,7 @@
             "link": "https://www.croma.com/asus-15-rog-strix-amd-ryzen-7-15-6-inch-8gb-512gb-windows-10-nvidia-geforce-gtx-1650-graphics-fhd-ips-display-electro-punk-90nr07p3-m02390-/p/245802?utm_source=google&utm_medium=ps&utm_campaign=Sok_Pmax_Laptop_Windows&gclid=CjwKCAjwp9qZBhBkEiwAsYFsbx4sXlG8yLd9LUW8HWVguNHFEAO9rPz9QG7HJs8otYwayJ-J6SsZAhoCcuMQAvD_BwE",
             "price": "Rs 72 thousand"
         },
-
+    {
         "id": 35,
         "modelName": "LENOVO THINKPAD T15 GEN 2 CORE I7- 11800H 32GB RAM 512GB SSD 8GB RTX 3070 MAX-Q 15.6INCH FHD W10PRO",
         "company": "lenovo",
@@ -612,8 +611,8 @@
         "memory": "8 GB",
         "storage": "256 GB SSD",
         "link": "https://www.lenovo.com/in/en/laptops/lenovo/v-series/Lenovo-V15-Gen-2-15-inch-Intel/p/82KBA02UIH",
-        "price": "36,990 INR",
-    }
+        "price": "36,990 INR"
+    },
 
     {
         "id": 50,
@@ -627,7 +626,7 @@
         "memory": "8 GB",
         "storage": "512 GB SSD",
         "link": "https://www.lenovo.com/in/en/laptops/legion-laptops/legion-5-series/Legion-5-15ACH6H/p/88GMY501582",
-        "price": "72,790 INR",
+        "price": "72,790 INR"
     },
     {
         "id": 51,
@@ -641,7 +640,7 @@
         "memory": "16 GB",
         "storage": "1 TB SSD",
         "link": "https://www.asus.com/Laptops/For-Gaming/TUF-Gaming/ASUS-TUF-Gaming-A15/",
-        "price": "89,999 INR",
+        "price": "89,999 INR"
     },
     {
         "id": 8,
@@ -1233,11 +1232,7 @@
         "storage": "256 GB PCIe SSD",
         "link": "https://www.lenovo.com/in/en/laptops/ideapad/ideapad-300-series/Ideapad-330S-15-Intel/p/88IP30S0988",
         "price": "Rs. 58999"
-    }
-
-
-=======
-[
+    },
   {
     "id": 1,
     "modelName": "Asus Tuf Dash F15 2022",
@@ -2623,7 +2618,7 @@
     "memory": "8 GB",
     "storage": "1TB HDD + 256 GB SSD",
     "link": "https://browser.geekbench.com/v5/cpu/compare/12169040?baseline=5515825",
-    "price": "Rs 60,000+",
+    "price": "Rs 60,000+"
 },
 {
     "id": "54",
@@ -2697,6 +2692,20 @@
 "memory": "8 GB",
 "storage": "256GB SSD",
 "link": "https://www.apple.com/in/macbook-air-m1/specs/",
-"price": "₹99900.00",
+"price": "₹99900.00"
+ },
+ {
+  "id": 146,
+  "modelName": "MacBook Air M2",
+  "company": "Apple",
+  "operatingSystem": "Mac OS Montrey",
+  "processorCompany": "Apple",
+  "processorModel": "M2",
+  "graphicsCard": "M2",
+  "display": "Liquid Retina display",
+  "memory": "8Gb",
+  "storage": "256Gb SSD, 512Gb SSD",
+  "link": "https://www.apple.com/macbook-air-m2/specs/",
+  "price": "$1199"
  }
 ]
