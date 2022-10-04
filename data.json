@@ -2698,5 +2698,25 @@
 "storage": "256GB SSD",
 "link": "https://www.apple.com/in/macbook-air-m1/specs/",
 "price": "₹99900.00",
- }
+ },
+	{
+        "id": 188,
+        "modelName": "Acer Aspire 7",
+        "company": "Acer",
+        "operatingSystem": "Windows 11 Home 64-bit",
+        "processorCompany": "Intel",
+        "processorModel": [
+            "i5-1240P processor"
+        ],
+        "graphicsCard": [
+            "NVIDIA GeForce GTX 1650 with 4 GB of dedicated GDDR6 VRAM"
+        ],
+        "display": [
+            "39.6 cm ("15.6") display with IPS (In-Plane Switching) technology,Slim Bezel Full HD 1920 x 1080, Acer ComfyView LED-backlit TFT LCD"
+        ],
+        "memory": "16gb",
+        "storage": "512gb ssd",
+        "link": "https://store.acer.com/en-in/",
+        "price": "Rs 56,990.00"
+    }
 ]
