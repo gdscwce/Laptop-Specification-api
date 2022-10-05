@@ -4,6 +4,7 @@
   "description": "This is a repository to make a data set of laptops, you can just add the laptop you are using or your dream laptop.",
   "main": "index.js",
   "scripts": {
+    "start": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
