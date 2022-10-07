@@ -2698,5 +2698,19 @@
 "storage": "256GB SSD",
 "link": "https://www.apple.com/in/macbook-air-m1/specs/",
 "price": "₹99900.00",
+ },
+ { 
+"id": "56",
+"modelName": "Lenovo Legion 5",
+"company": "Lenovo",
+"operatingSystem": "Windows 11",
+"processorCompany": "Intel",
+"processorModel": "i5 10gen",
+"graphicsCard": "Nvidia Gefore GTX 1650",
+"display": "LCD",
+"memory": "8 GB",
+"storage": "256GB SSD + 1TB HDD",
+"link": "https://www.amazon.in/Lenovo-i5-10300H-39-63cm-Windows-82AU00PMIN/dp/B097TYRFJJ/ref=sr_1_9?crid=1QB500SMFGSBS&keywords=legion+5&qid=1665143651&qu=eyJxc2MiOiI0LjMyIiwicXNhIjoiMy45MCIsInFzcCI6IjIuNjUifQ%3D%3D&s=electronics&sprefix=legion+5%2Celectronics%2C287&sr=1-9",
+"price": "₹71900.00",
  }
 ]
