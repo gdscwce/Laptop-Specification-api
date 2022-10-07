@@ -2698,5 +2698,19 @@
 "storage": "256GB SSD",
 "link": "https://www.apple.com/in/macbook-air-m1/specs/",
 "price": "₹99900.00",
- }
+  },
+ {
+    "id": 30,
+    "modelName": "Dell G3 3500",
+    "company": "Dell",
+    "operatingSystem": "Windows 10 ",
+    "processorCompany": "Intel",
+    "processorModel": "[Intel(R) Core(TM) i7-10750H CPU]",
+    "graphicsCard": "[NVIDIA GEFORCE GTX 1650]",
+    "display": "15.6 Inches",
+    "memory": "8 GB",
+    "storage": "1 TB HDD 512 GB SSD",
+    "link": "https://www.amazon.in/Dell-Gaming15-6-inch-i7-10750H-NVIDIA1650-D560123WIN9BE/dp/B08BZR715Y/ref=sr_1_8?crid=G2S29ZGNT63Z&keywords=dell+g3+3500+gaming+laptop&qid=1665165251&qu=eyJxc2MiOiIzLjEyIiwicXNhIjoiMi4yOCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=dell+G3+3500%2Caps%2C529&sr=8-8",
+    "price": "84,500 INR"
+  },
 ]
