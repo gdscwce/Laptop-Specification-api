@@ -2712,5 +2712,19 @@
 "storage": "1 TB HDD",
 "link": "https://www.amazon.in/VOSTRO-14inch-Ryzen-3-Graphics-D552134WIN9BE/dp/B08HQY7WH4",
 "price": "₹37,360.00",
+},
+{ 
+"id": "55",
+"modelName": "HP Victus 16",
+"company": "HP",
+"operatingSystem": "Windows 10",
+"processorCompany": "AMD",
+"processorModel": "Ryzen 7 5800h",
+"graphicsCard": "Nvidia RTX 3050",
+"display": "10 BIT Anti glare IPS",
+"memory": "8 GB",
+"storage": "512GB SSD",
+"link": "https://amzn.eu/d/5k0cEzO",
+"price": "₹75,000.00",
  }
 ]
