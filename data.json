@@ -2712,5 +2712,19 @@
 "storage": "512GB SSD",
 "link": "https://amzn.eu/d/5k0cEzO",
 "price": "₹75,000.00",
- }
+ },
+ { 
+  "id": "56",
+  "modelName": "ASUS VivoBook 14",
+  "company": "ASUS",
+  "operatingSystem": "Windows 10",
+  "processorCompany": "AMD",
+  "processorModel": "i5",
+  "graphicsCard": "Integrated Intel UHD Graphics",
+  "display": "10 BIT Anti glare IPS",
+  "memory": "16 GB",
+  "storage": "512GB SSD",
+  "link": "https://www.amazon.in/ASUS-VivoBook-i5-1135G7-Graphics-X415EA-EK572WS/dp/B09DX8FZSL",
+  "price": "₹60,000.00",
+   }
 ]
