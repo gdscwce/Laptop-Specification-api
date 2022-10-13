@@ -1145,4 +1145,18 @@
     "link": "https://amzn.eu/d/5k0cEzO",
     "price": "₹75,000.00"
   }
+    {
+    "id": "56",
+    "modelName": "lenovo t420"
+    "company": "lenovo",
+    "operatingSystem": "Windows 10",
+    "processorCompany": "intel ",
+    "processorModel": "intel i5",
+    "graphicsCard": "integrated",
+    "display": "Anti glare IPS",
+    "memory": "8 GB",
+    "storage": "512GB SSD",
+    "link": "https://amzn.eu/d/5k0cEzO",
+    "price": "₹45,000"
+  }
 ]
