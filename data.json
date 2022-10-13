@@ -1144,5 +1144,19 @@
     "storage": "512GB SSD",
     "link": "https://amzn.eu/d/5k0cEzO",
     "price": "₹75,000.00"
+  },
+  {
+    "id": "59",
+    "modelName": "Acer Aspire 7",
+    "company": "Acer",
+    "operatingSystem": "Windows 11",
+    "processorCompany": "Intel",
+    "processorModel": "Intel i5",
+    "graphicsCard": "Nvidia RTX ",
+    "display": "10 BIT Anti glare IPS",
+    "memory": "8 GB",
+    "storage": "512GB SSD",
+    "link": "https://www.amazon.in/Acer-Aspire-i5-10300H-Windows-GeForce%C2%AE/dp/B097F17LTD",
+    "price": "₹50,000.00"
   }
 ]
