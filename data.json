@@ -1144,5 +1144,19 @@
     "storage": "512GB SSD",
     "link": "https://amzn.eu/d/5k0cEzO",
     "price": "₹75,000.00"
+  },
+    {
+    "id": "56",
+    "modelName": "HP Pavilion",
+    "company": "HP",
+    "operatingSystem": "Windows 11",
+    "processorCompany": "AMD",
+    "processorModel": "Ryzen 5 5000h",
+    "graphicsCard": "Nvidia RTX 3050",
+    "display": "10 BIT Anti glare IPS",
+    "memory": "8 GB",
+    "storage": "512GB SSD",
+    "link": "https://www.amazon.in/HP-Pavilion-Processor-Graphics-15-ec2150AX/dp/B09MF8KMRW/ref=sr_1_3?hvadid=82807179849235&hvbmt=be&hvdev=c&hvqmt=e&keywords=hp+pavilion&qid=1665665367&qu=eyJxc2MiOiI1LjY0IiwicXNhIjoiNS41NCIsInFzcCI6IjMuNjIifQ%3D%3D&sr=8-3",
+    "price": "₹62,000.00"
   }
 ]
