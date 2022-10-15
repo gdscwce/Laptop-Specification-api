@@ -1144,5 +1144,19 @@
     "storage": "512GB SSD",
     "link": "https://amzn.eu/d/5k0cEzO",
     "price": "₹75,000.00"
-  }
+  },
+  {
+    "id": 79,
+    "modelName": "Lenovo V15 Gen 2",
+    "company": "Lenovo",
+    "operatingSystem": "Windows 11 Home Single Language 64",
+    "processorCompany": "Intel",
+    "processorModel": "[ Intel® Core™ i3-1115G4 Processor]",
+    "graphicsCard": "[Integrated Intel® UHD Graphics]",
+    "display": "15.6 Inches",
+    "memory": "8 GB",
+    "storage": "256 GB SSD",
+    "link": "https://www.lenovo.com/in/en/laptops/lenovo/v-series/Lenovo-V15-Gen-2-15-inch-Intel/p/82KBA02UIH",
+    "price": "36,990 INR"
+  },
 ]
