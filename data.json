@@ -1145,4 +1145,17 @@
     "link": "https://amzn.eu/d/5k0cEzO",
     "price": "₹75,000.00"
   }
-]
+ {
+    "id": 79,
+    "modelName": "ASUS VIVOBOOK 14",
+    "company": "ASUS",
+    "operatingSystem": "WINDOWS 10",
+    "processorCompany": "AMD",
+    "processorModel": "AMD RYZEN 5 5500U",
+    "graphicsCard": "AMD RADEON INTEGRATED",
+    "display": "14inches",
+    "memory": "8 GB",
+    "storage": "512 GB SSD",
+    "link": "https://www.amazon.in/ASUS-VivoBook-Integrated-Graphics-M515UA-BQ512TS/dp/B09DPWDWYD/ref=sr_1_4?crid=1GNWZ1YPFRZCG&keywords=asus+vivobook+15+ryzen+5&qid=1666156869&qu=eyJxc2MiOiI0LjM0IiwicXNhIjoiMy4yNCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=asus+vivobook+15+ryzen+5%2Caps%2C252&sr=8-4",
+    "price": "58,000 INR"
+  }
