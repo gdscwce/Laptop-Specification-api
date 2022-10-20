@@ -1103,6 +1103,22 @@
     "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/sr/laptops/inspiron-laptops?gacd=10415953-9016-5761040-285981356-0&dgc=ST&gclsrc=aw.ds&nclid=BV-_KbXvPPI_x99ugvSd2d3WwYviVRV9xpJdkVBFaHw3D1clsk0EteQ2pzLjJ0CB",
     "price": "Rs 61000+"
   },
+
+ { 
+"id": "54",
+"modelName": "MacBook Air",
+"company": "Apple",
+"operatingSystem": "Mac OS Montrey",
+"processorCompany": "Apple",
+"processorModel": "M1",
+"graphicsCard": "M1",
+"display": "Retina display",
+"memory": "8 GB",
+"storage": "256GB SSD",
+"link": "https://www.apple.com/in/macbook-air-m1/specs/",
+"price": "₹99900.00",
+ },
+
   {
     "id": 76,
     "modelName": "MacBook Air",
@@ -1144,6 +1160,7 @@
     "storage": "512GB SSD",
     "link": "https://amzn.eu/d/5k0cEzO",
     "price": "₹75,000.00"
+
   },
   {
     "id": 79,
@@ -1158,5 +1175,24 @@
     "storage": "8TB SSD",
     "link": "https://www.apple.com/in/shop/buy-mac/macbook-pro/16-inch-space-grey-10-core-cpu-32-core-gpu-1tb#",
     "price": "5,89,900.00"
-  }
+
+ },
+ 
+ { 
+"id": "59",
+"modelName": "IdeaPad 3 15ITL05",
+"company": "Lenovo",
+"operatingSystem": "Windows 11 Home",
+"processorCompany": "Intel Core i3-1115G4",
+"processorModel": "11th Gen Core i3-1115G4"
+"graphicsCard": "Integrated",
+"display": "15.6 FHD(1920x1080),TN Technology,220 Nits brightness,Anti-Glare",
+"memory": "8 GB",
+"storage": "256GB SSD",
+"link": "https://www.amazon.in/Lenovo-IdeaPad-Warranty-Platinum-81X800LGIN/dp/B0B2RBP83P/ref=sr_1_11_sspa?crid=V620LS106QOU&keywords=lenovo+laptops&qid=1665204577&qu=eyJxc2MiOiI3LjA4IiwicXNhIjoiNy4wMSIsInFzcCI6IjQuODQifQ%3D%3D&sprefix=lenovo+lapt%2Caps%2C840&sr=8-11-spons&psc=1",
+"price": "₹36,990",
+ }
+
 ]
+
+
