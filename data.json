@@ -1144,5 +1144,19 @@
     "storage": "512GB SSD",
     "link": "https://amzn.eu/d/5k0cEzO",
     "price": "₹75,000.00"
+  },
+  {
+    "id": 79,
+    "modelName": "Macbook Pro 16",
+    "company": "Apple",
+    "operatingSystem": "MacOS",
+    "processorCompany": "Apple",
+    "processorModel": "M1 MAX",
+    "graphicsCard": "M1 MAX",
+    "display": "Retina Display",
+    "memory": "64 GB",
+    "storage": "8TB SSD",
+    "link": "https://www.apple.com/in/shop/buy-mac/macbook-pro/16-inch-space-grey-10-core-cpu-32-core-gpu-1tb#",
+    "price": "5,89,900.00"
   }
 ]
