@@ -1175,8 +1175,21 @@
 "storage": "256GB SSD",
 "link": "https://www.amazon.in/Lenovo-IdeaPad-Warranty-Platinum-81X800LGIN/dp/B0B2RBP83P/ref=sr_1_11_sspa?crid=V620LS106QOU&keywords=lenovo+laptops&qid=1665204577&qu=eyJxc2MiOiI3LjA4IiwicXNhIjoiNy4wMSIsInFzcCI6IjQuODQifQ%3D%3D&sprefix=lenovo+lapt%2Caps%2C840&sr=8-11-spons&psc=1",
 "price": "₹36,990",
- }
-
+ },
+ {
+    "id": 60,
+    "modelName": "ASUS 15 ROG Strix",
+    "company": "Asus",
+    "operatingSystem": "Windows 10 Home",
+    "processorCompany": "AMD",
+    "processorModel": ["AMD Ryzen 7"],
+    "graphicsCard": ["NVDIA GEFORCE GTX1650"],
+    "display": ["15.6-inch"],
+    "memory": "8gb",
+    "storage": "512GB SSD",
+    "link": "https://www.croma.com/asus-15-rog-strix-amd-ryzen-7-15-6-inch-8gb-512gb-windows-10-nvidia-geforce-gtx-1650-graphics-fhd-ips-display-electro-punk-90nr07p3-m02390-/p/245802?utm_source=google&utm_medium=ps&utm_campaign=Sok_Pmax_Laptop_Windows&gclid=CjwKCAjwp9qZBhBkEiwAsYFsbx4sXlG8yLd9LUW8HWVguNHFEAO9rPz9QG7HJs8otYwayJ-J6SsZAhoCcuMQAvD_BwE",
+    "price": "Rs 72 thousand"
+  },
 ]
 
 
