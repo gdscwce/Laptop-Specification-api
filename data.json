@@ -1187,9 +1187,23 @@
     "display": "Full HD LED Backlit, Anti-Glare IPS Display (300 nits Brightness, 45% NTSC Color Gamut)",
     "memory": "16 GB",
     "storage": "512GB SSD",
-    "link": "https://bit.ly/3CVh6HF",
-    "price": "₹73,990.00"
-   },
+    "link": "https://amzn.eu/d/5k0cEzO",
+    "price": "₹75,000.00"
+  },
+  {
+    "id": 79,
+    "modelName": "Lenovo V15 Gen 2",
+    "company": "Lenovo",
+    "operatingSystem": "Windows 11 Home Single Language 64",
+    "processorCompany": "Intel",
+    "processorModel": "[ Intel® Core™ i3-1115G4 Processor]",
+    "graphicsCard": "[Integrated Intel® UHD Graphics]",
+    "display": "15.6 Inches",
+    "memory": "8 GB",
+    "storage": "256 GB SSD",
+    "link": "https://www.lenovo.com/in/en/laptops/lenovo/v-series/Lenovo-V15-Gen-2-15-inch-Intel/p/82KBA02UIH",
+    "price": "36,990 INR"
+  },
    {
   "id": 80,
   "modelName": "Aspire A715-75G",
@@ -1209,3 +1223,4 @@
   
   
   
+
