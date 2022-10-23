@@ -1175,7 +1175,21 @@
 "storage": "256GB SSD",
 "link": "https://www.amazon.in/Lenovo-IdeaPad-Warranty-Platinum-81X800LGIN/dp/B0B2RBP83P/ref=sr_1_11_sspa?crid=V620LS106QOU&keywords=lenovo+laptops&qid=1665204577&qu=eyJxc2MiOiI3LjA4IiwicXNhIjoiNy4wMSIsInFzcCI6IjQuODQifQ%3D%3D&sprefix=lenovo+lapt%2Caps%2C840&sr=8-11-spons&psc=1",
 "price": "₹36,990",
- }
+ },
+    {
+    "id": 81,
+    "modelName": "Acer Nitro AN515-54",
+    "company": "Acer",
+    "operatingSystem": "Windows 10 OS",
+    "processorCompany": "Intel",
+    "processorModel": "Intel Core i7 9th Gen",
+    "graphicsCard": "6 GB NVIDIA Graphics Card",
+    "display": "15.6 inches, 1920 x 1080 pixels",
+    "memory": "8 GB",
+    "storage": "256 GB SSD",
+    "link": "https://www.firstpost.com/tech/laptops/acer-nitro-an51554-nhq5bsi002-gaming-laptop-9th-gen-core-i7-8gb-2tb-256gb-ssd-win10-6gb-graph-2083",
+    "price": "Rs. 84990"
+  }
 
 ]
 
