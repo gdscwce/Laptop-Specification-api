@@ -1426,6 +1426,21 @@
   "link": "https://www.acer.com/us-en/laptops/aspire/aspire-7-amd",
   "price": "₹56,000"
    }
+    
+     {
+  "id": 81,
+  "modelName": "Asus_VivoBook M3400QA",
+  "company": "Asus",
+  "operatingSystem": "Windows 11",
+  "processorCompany": "Ryzen 5",
+  "processorModel": "AMD Ryzen 5 5600H with Radeon Graphics",
+  "graphicsCard": "nVDIA",
+  "display": "14 inch",
+  "memory": "8gb",
+  "storage": "512gb ssd",
+  "link": "https://www.asus.com/in/Laptops/For-Home/Vivobook/Vivobook-Pro-14-OLED-M3400/where-to-buy/",
+  "price": "₹59,990"
+   }
   
 ]
 
