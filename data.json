@@ -1204,6 +1204,214 @@
     "link": "https://www.lenovo.com/in/en/laptops/lenovo/v-series/Lenovo-V15-Gen-2-15-inch-Intel/p/82KBA02UIH",
     "price": "36,990 INR"
   },
+  {
+    "id": 68,
+    "modelName": "Lenovo Legion 5",
+    "company": "Lenovo",
+    "operatingSystem": "Windows 11 Home Single Language 64",
+    "processorCompany": "AMD",
+    "processorModel": "[ AMD RYZEN 5]",
+    "graphicsCard": "[AMD Ryzen™ 7 5800H]",
+    "display": "15 Inches",
+    "memory": "8 GB",
+    "storage": "512 GB SSD",
+    "link": "https://www.lenovo.com/in/en/laptops/legion-laptops/legion-5-series/Legion-5-15ACH6H/p/88GMY501582",
+    "price": "72,790 INR"
+  },
+  {
+    "id": 69,
+    "modelName": "Apple Macbook Air M1",
+    "company": "apple",
+    "operatingSystem": "MacOS",
+    "processorCompany": "M1 Silicon",
+    "processorModel": "M1 chip",
+    "graphicsCard": "apple graphic",
+    "display": "13inches",
+    "memory": "8 GB",
+    "storage": "256 GB SSD",
+    "link": "idk",
+    "price": "92,000 INR"
+  },
+  {
+    "id": 70,
+    "modelName": "HP Pavilion x360 Convertible 14-dy0208TU",
+    "company": "HP",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "Intel",
+    "processorModel": "11th Generation Intel Core I3 processor",
+    "graphicsCard": "[Integrated Intel® UHD Graphics]",
+    "display": "35.6 cm (14) diagonal FHD touch display",
+    "memory": "8 GB",
+    "storage": "512 GB SSD",
+    "link": "https://www.hp.com/in-en/shop/hp-pavilion-x360-convertible-14-dy0208tu-67g61pa.html?gclsrc=ds&gclsrc=ds",
+    "price": "Rs. 55702"
+  },
+  {
+    "id": 71,
+    "modelName": "DELL G15-5515",
+    "company": "DELL",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "Ryzen",
+    "processorModel": ["AMD Ryzen5-5600H"],
+    "graphicsCard": ["Nvidia GeForce RTX 3050"],
+    "display": [
+      "15.6 inch FHD, (1920 x 1080), 120Hz, 250 nits, WVA, Anti- Glare LED"
+    ],
+    "memory": "upto 32 GB",
+    "storage": "512 GB, M.2, PCIe NVMe, SSD",
+    "link": "https://www.dell.com/en-in/shop/gaming-and-games/g15-ryzen-edition-gaming-laptop/spd/g-series-15-5515-laptop",
+    "price": "Rs 75,000+"
+  },
+  {
+    "id": 72,
+    "modelName": "HP Laptop 15s-du3xxx",
+    "company": "HP",
+    "operatingSystem": "Microsoft Windows 10 Home Single Language (64-bit)",
+    "processorCompany": "Intel",
+    "processorModel": "11th Gen Intel Core i5-1135G",
+    "graphicsCard": "NVIDIA GeForce® MX350",
+    "display": "15 inch",
+    "memory": "8 GB",
+    "storage": "1TB HDD + 256 GB SSD",
+    "link": "https://browser.geekbench.com/v5/cpu/compare/12169040?baseline=5515825",
+    "price": "Rs 60,000+"
+  },
+  {
+    "id": 73,
+    "modelName": "Acer Nitro 7",
+    "company": "Acer",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "Intel",
+    "processorModel": ["Intel Core-i7 10800H"],
+    "graphicsCard": ["Nvidia GeForce RTX 3060"],
+    "display": [
+      "15.6 inch FHD, (1920 x 1080),IPS Display, 144Hz 3ms, 250 nits, WVA, Anti- Glare LED"
+    ],
+    "memory": "upto 32 GB",
+    "storage": "1TB, M.2, 8GB PCIe RAM, NVMe SSD",
+    "link": "https://www.acer.com/us-en/laptops/nitro/nitro-7",
+    "price": "Rs 75,000+"
+  },
+  {
+    "id": 74,
+    "modelName": "Acer Aspire 5",
+    "company": "Acer",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "Intel",
+    "processorModel": ["Intel Core-i5 1135G7"],
+    "graphicsCard": ["Nvidia MX 350"],
+    "display": [
+      "13.0 inch FHD, (1920 x 1080),IPS Display, 60Hz 3ms, 250 nits, WVA, Anti- Glare FHD"
+    ],
+    "memory": "upto 8 GB",
+    "storage": "512GB, M.2, 8GB PCIe RAM, NVMe SSD",
+    "link": "https://www.acer.com/us-en/laptops/aspire/aspire-5",
+    "price": "Rs 65,000+"
+  },
+  {
+    "id": 75,
+    "modelName": "DELL inspiron 3501",
+    "company": "DELL",
+    "operatingSystem": "Windows 11 Home",
+    "processorCompany": "intel core i5",
+    "processorModel": ["intel core i5 1105"],
+    "graphicsCard": ["Nvidia GeForce RTX 1650"],
+    "display": [
+      "15.6 inch FHD, (1920 x 1080), 120Hz, 250 nits, WVA, Anti- Glare LED"
+    ],
+    "memory": "upto 32 GB",
+    "storage": "256GB, M.2, PCIe NVMe, SSD",
+    "link": "https://www.dell.com/en-in/shop/laptops-2-in-1-pcs/sr/laptops/inspiron-laptops?gacd=10415953-9016-5761040-285981356-0&dgc=ST&gclsrc=aw.ds&nclid=BV-_KbXvPPI_x99ugvSd2d3WwYviVRV9xpJdkVBFaHw3D1clsk0EteQ2pzLjJ0CB",
+    "price": "Rs 61000+"
+  },
+
+ { 
+"id": "54",
+"modelName": "MacBook Air",
+"company": "Apple",
+"operatingSystem": "Mac OS Montrey",
+"processorCompany": "Apple",
+"processorModel": "M1",
+"graphicsCard": "M1",
+"display": "Retina display",
+"memory": "8 GB",
+"storage": "256GB SSD",
+"link": "https://www.apple.com/in/macbook-air-m1/specs/",
+"price": "₹99900.00"
+ },
+
+  {
+    "id": 76,
+    "modelName": "MacBook Air",
+    "company": "Apple",
+    "operatingSystem": "Mac OS Montrey",
+    "processorCompany": "Apple",
+    "processorModel": "M1",
+    "graphicsCard": "M1",
+    "display": "Retina display",
+    "memory": "8 GB",
+    "storage": "256GB SSD",
+    "link": "https://www.apple.com/in/macbook-air-m1/specs/",
+    "price": "₹99900.00"
+  },
+  {
+    "id": 77,
+    "modelName": "HP Victus 16",
+    "company": "HP",
+    "operatingSystem": "Windows 10",
+    "processorCompany": "AMD",
+    "processorModel": "Ryzen 7 5800h",
+    "graphicsCard": "Nvidia RTX 3050",
+    "display": "10 BIT Anti glare IPS",
+    "memory": "8 GB",
+    "storage": "512GB SSD",
+    "link": "https://amzn.eu/d/5k0cEzO",
+    "price": "₹75,000.00"
+  },
+  {
+    "id": 78,
+    "modelName": "HP Victus 16",
+    "company": "HP",
+    "operatingSystem": "Windows 10",
+    "processorCompany": "AMD",
+    "processorModel": "Ryzen 7 5800h",
+    "graphicsCard": "Nvidia RTX 3050",
+    "display": "10 BIT Anti glare IPS",
+    "memory": "8 GB",
+    "storage": "512GB SSD",
+    "link": "https://amzn.eu/d/5k0cEzO",
+    "price": "₹75,000.00"
+ },
+ 
+ { 
+"id": "59",
+"modelName": "IdeaPad 3 15ITL05",
+"company": "Lenovo",
+"operatingSystem": "Windows 11 Home",
+"processorCompany": "Intel Core i3-1115G4",
+"processorModel": "11th Gen Core i3-1115G4",
+"graphicsCard": "Integrated",
+"display": "15.6 FHD(1920x1080),TN Technology,220 Nits brightness,Anti-Glare",
+"memory": "8 GB",
+"storage": "256GB SSD",
+"link": "https://www.amazon.in/Lenovo-IdeaPad-Warranty-Platinum-81X800LGIN/dp/B0B2RBP83P/ref=sr_1_11_sspa?crid=V620LS106QOU&keywords=lenovo+laptops&qid=1665204577&qu=eyJxc2MiOiI3LjA4IiwicXNhIjoiNy4wMSIsInFzcCI6IjQuODQifQ%3D%3D&sprefix=lenovo+lapt%2Caps%2C840&sr=8-11-spons&psc=1",
+"price": "₹36,990"
+ },
+    {
+    "id": 81,
+    "modelName": "Acer Nitro AN515-54",
+    "company": "Acer",
+    "operatingSystem": "Windows 10 OS",
+    "processorCompany": "Intel",
+    "processorModel": "Intel Core i7 9th Gen",
+    "graphicsCard": "6 GB NVIDIA Graphics Card",
+    "display": "15.6 inches, 1920 x 1080 pixels",
+    "memory": "8 GB",
+    "storage": "256 GB SSD",
+    "link": "https://www.firstpost.com/tech/laptops/acer-nitro-an51554-nhq5bsi002-gaming-laptop-9th-gen-core-i7-8gb-2tb-256gb-ssd-win10-6gb-graph-2083",
+    "price": "Rs. 84990"
+  },
+
    {
   "id": 80,
   "modelName": "Aspire A715-75G",
@@ -1219,8 +1427,6 @@
   "price": "₹56,000"
    }
   
-  ]
-  
-  
-  
+]
+
 
