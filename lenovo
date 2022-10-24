@@ -1,0 +1,15 @@
+ {
+"id": nil
+"modelName": "IdeaPad L340",
+"company": "Lenovo",
+"operatingSystem": "Windows 10 home",
+"processorCompany": "intel",
+"processorModel": "Intel(R) Core(TM) i5-9300HF CPU @ 2.40GHz   2.40 GHz",
+"graphicsCard": "nVDIA",
+"display": "39.62cms (15.6) FHD (1920 x 1080), IPS, antiglare, 250 nits, 45% color gamut",
+"memory": "8gb",
+"storage": "256gb ssd + 1tb hdd",
+"link": "https://www.amazon.in/Lenovo-IdeaPad-39-62cms-Graphics-81LK01QNIN/dp/B08WRL9GQW?th=1",
+"price": "₹60,500",
+ }
+
