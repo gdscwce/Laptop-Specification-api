@@ -1441,7 +1441,21 @@
   "storage": "1Tb hdd",
   "link": "https://www.reliancedigital.in/hp-245-g7-notebook-amd-ryzen-5-3500u-8gb-1tb-hdd-amd-radeon-vega-graphics-windows-10-hd-35-6-cm-14-inch-/p/491901526?gclid=CjwKCAjw79iaBhAJEiwAPYwoCHTGYI9aez_xeF8jvh7MsmPN2N2vkrWLgm8SPyP_Hpukq0_FwPLYqBoC880QAvD_BwE",
   "price": "₹39,999"
-   }
+   },
+   {
+    "id": 115,
+    "modelName": "Lenovo Thinkpad X1 Yoga",
+    "company": "Lenovo ",
+    "operatingSystem": "Windows 10 Pro 64",
+    "processorCompany": "Intel",
+    "processorModel": "Intel Core i7-1185G7 (4C / 8T, 3.0 / 4.8GHz, 12MB)",
+    "graphicsCard": "Intel Iris Xe Graphics",
+    "display": "14 WUXGA (1920x1200) IPS 400nits AR (anti-reflection) / AS (anti-smudge), Touch",
+    "memory": "16gb",
+    "storage": "1Tb hdd",
+    "link": "https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/x1-yoga-g6/22tp2x1x1y6",
+    "price": "$1,399.00"
+     }
 ]
 
 
