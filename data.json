@@ -1426,7 +1426,22 @@
   "link": "https://www.acer.com/us-en/laptops/aspire/aspire-7-amd",
   "price": "₹56,000"
    }
-  
+  ,
+
+   {
+  "id": 81,
+  "modelName": "HP 245 G7 Notebook",
+  "company": "HP",
+  "operatingSystem": "Windows 10 Pro 64-bit (National Academic only)",
+  "processorCompany": "AMD",
+  "processorModel": "AMD Radeon Vega 8 Mobile Graphics",
+  "graphicsCard": "Vega",
+  "display": "14 inch",
+  "memory": "8gb",
+  "storage": "1Tb hdd",
+  "link": "https://www.reliancedigital.in/hp-245-g7-notebook-amd-ryzen-5-3500u-8gb-1tb-hdd-amd-radeon-vega-graphics-windows-10-hd-35-6-cm-14-inch-/p/491901526?gclid=CjwKCAjw79iaBhAJEiwAPYwoCHTGYI9aez_xeF8jvh7MsmPN2N2vkrWLgm8SPyP_Hpukq0_FwPLYqBoC880QAvD_BwE",
+  "price": "₹39,999"
+   }
 ]
 
 
