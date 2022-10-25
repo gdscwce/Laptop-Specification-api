@@ -1441,7 +1441,22 @@
   "storage": "1Tb hdd",
   "link": "https://www.reliancedigital.in/hp-245-g7-notebook-amd-ryzen-5-3500u-8gb-1tb-hdd-amd-radeon-vega-graphics-windows-10-hd-35-6-cm-14-inch-/p/491901526?gclid=CjwKCAjw79iaBhAJEiwAPYwoCHTGYI9aez_xeF8jvh7MsmPN2N2vkrWLgm8SPyP_Hpukq0_FwPLYqBoC880QAvD_BwE",
   "price": "₹39,999"
-   }
+   },
+        
+    {
+      "id": 82,
+      "modelName": "Lenovo Ideapad Slim 5i pro",
+      "company": "Lenovo",
+      "operatingSystem": "Windows 11 pro",
+      "processorCompany": "Intel",
+      "processorModel": ["i7"],
+      "graphicsCard": ["no"],
+      "display": ["39.62 cm (15.6 inch) FHD 2.2k led"],
+      "memory": "16gb",
+      "storage": "512 ssd",
+      "link": "https://www.amazon.in/Lenovo-IdeaPad-Keyboard-Warranty-82L3006XIN/dp/B09QD4X1GZ",
+      "price": "Rs 76990"
+    }
 ]
 
 
