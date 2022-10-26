@@ -1457,6 +1457,23 @@
       "link": "https://www.amazon.in/Lenovo-IdeaPad-Keyboard-Warranty-82L3006XIN/dp/B09QD4X1GZ",
       "price": "Rs 76990"
     }
+
+    {
+      "id": 83,
+      "modelName": "Asus VivoBook M3400QA",
+      "company": "Asus",
+      "operatingSystem": "Windows 11 Home",
+      "processorCompany": "AMD",
+      "processorModel": ["AMD Ryzen 5 5600H with Radeon Graphics"],
+      "graphicsCard": ["no"],
+      "display": ["14 inch with OLED Display"],
+      "memory": "8gb",
+      "storage": "512 ssd",
+      "link": "https://www.amazon.in/ASUS-Windows-Vivobook-M3400QA-KM502WS-14-0-inches/dp/B0B49LZH1F",
+      "price": "Rs 50190"
+    }
+
+
 ]
 
 
