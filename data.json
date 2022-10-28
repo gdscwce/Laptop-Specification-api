@@ -1456,7 +1456,21 @@
       "storage": "512 ssd",
       "link": "https://www.amazon.in/Lenovo-IdeaPad-Keyboard-Warranty-82L3006XIN/dp/B09QD4X1GZ",
       "price": "Rs 76990"
-    }
+    },
+    {
+      "id": 83,
+      "modelName": "Lenovo Ideapad 5 14ITL05",
+      "company": "Lenovo",
+      "operatingSystem": "Windows 10",
+      "processorCompany": "Intel",
+      "processorModel": ["11th Gen Intel® Core™ i5-1135G7"],
+      "graphicsCard": ["Integrated Intel Iris Xe Graphics"],
+      "display": ["14-inch, FHD"],
+      "memory": "8 GB",
+      "storage": "512 GB SSD",
+      "link": "https://amzn.eu/d/boJlJdd",
+      "price": "Rs 61,400"
+    },
 ]
 
 
