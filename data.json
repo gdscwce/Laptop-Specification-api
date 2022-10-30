@@ -1337,6 +1337,7 @@
 "memory": "8 GB",
 "storage": "256GB SSD",
 "link": "https://www.apple.com/in/macbook-air-m1/specs/",
+
 "price": "₹99900.00"
  },
 
@@ -1456,7 +1457,38 @@
       "storage": "512 ssd",
       "link": "https://www.amazon.in/Lenovo-IdeaPad-Keyboard-Warranty-82L3006XIN/dp/B09QD4X1GZ",
       "price": "Rs 76990"
-    }
+    },
+
+ {
+  "id": "83",
+"modelName": "MacBook Pro",
+"company": "Apple",
+"operatingSystem": "Mac OS Montrey",
+"processorCompany": "Apple",
+"processorModel": "M1",
+"graphicsCard": "M1",
+"display": "Retina display",
+"memory": "8 GB",
+"storage": "256GB SSD",
+"link": "https://www.apple.com/in/macbook-air-m1/specs/",
+"price": "₹99900.00"
+ },
+
+ {
+  "id": "55",
+"modelName": "MacBook Pro",
+"company": "Apple",
+"operatingSystem": "Mac OS Montrey",
+"processorCompany": "Apple",
+"processorModel": "M1",
+"graphicsCard": "M1",
+"display": "Retina display",
+"memory": "8 GB",
+"storage": "256GB SSD",
+"link": "https://www.apple.com/in/macbook-air-m1/specs/",
+"price": "₹99900.00"
+ }
+
 ]
 
 
